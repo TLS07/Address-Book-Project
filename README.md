@@ -9,9 +9,13 @@ A command-line based Address Book application developed in C, allowing users to 
 Traditional paper-based address books are inefficient and prone to errors. This project provides a digital solution with a terminal-based interface, enabling:
 
 Real-time interaction with the user
+
 Persistent storage of contacts in CSV format
+
 Input validation for name, phone, and email
+
 Duplicate prevention for phone numbers and emails
+
 Modular code structure for scalability and maintainability
 
 ⚙️ Technologies & Tools Used
