@@ -10,24 +10,18 @@ Traditional paper-based address books are inefficient and prone to errors. This 
 
 Real-time interaction with the user
 Persistent storage of contacts in CSV format
-
 Input validation for name, phone, and email
-
 Duplicate prevention for phone numbers and emails
-
 Modular code structure for scalability and maintainability
 
 ⚙️ Technologies & Tools Used
 
 Programming Language: C
-
 Compiler: GCC
-
 Interface: Terminal / Command-line
-
 Data Storage: CSV file (addressBook.csv)
 
-Code Structure: Modular files
+📁Code Structure: Modular files
 
 main.c – Program entry & menu interface
 
